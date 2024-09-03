@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('mountain.png');/* Replace with your mountain image */
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mountain {
+    margin: 50px;
+    padding: 30px;
+    background-color: rgb(57, 57, 57);
+    opacity: 70%;
+    border-radius: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.house {
+    margin: 60px;
+    padding: 20px;
+    background-color: rgb(57, 57, 57);
+    border-radius: 30px;
+    border: 3px solid white;
+    color: rgb(255, 255, 255);
+}

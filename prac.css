@@ -1,0 +1,25 @@
+p{
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+    margin-right: 250px;
+    color: rgb(255, 255, 255);
+    font-size: large;
+}
+h1 , h4{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-image:url("mountain.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.abc{
+    background-color: black;
+    opacity: 60%;
+    border: 5px solid black;
+    border-radius: 30px;
+    margin: 100px;
+}
